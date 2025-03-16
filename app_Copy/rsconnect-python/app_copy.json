@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\Asus\\Desktop\\PyDash\\app_copy",
+        "app_url": "https://gmgi-apps.shinyapps.io/maleria-data-explorer/",
+        "app_id": 14258268,
+        "app_guid": null,
+        "title": "maleria-data-explorer",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
